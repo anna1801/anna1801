@@ -14,7 +14,7 @@
 ⚡ Consistently hitting **85+ Core Web Vitals / PageSpeed** scores  
 🤝 Working fully remote with teams across **Europe and Asia** since 2020
 
-I build **fast, secure and easy-to-edit WordPress websites**, from custom themes and plugins to Gutenberg blocks, WooCommerce stores and headless front ends.  
+I build **fast, secure and easy-to-edit WordPress websites**, from custom themes and plugins to Gutenberg blocks, WooCommerce stores, WPML Multilingual and headless front ends.  
 I care about **clean code, performance, security and a great editing experience** for content teams.
 
 ---
