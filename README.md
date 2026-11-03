@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anna Saju
 
-🚀 **Senior WordPress Developer | Custom Themes, Plugins, Gutenberg & Headless WordPress**  
-🇬🇧 Based in Newcastle upon Tyne, UK · 🌍 Open to remote roles worldwide
+🚀 **Senior WordPress Developer | Custom Themes, Plugins, WPML, WooCommerce, Gutenberg & Headless WordPress**  
+🇬🇧 Based in Newcastle upon Tyne, United kingdom · 🌍 Open to remote roles worldwide
 
 ---
 
